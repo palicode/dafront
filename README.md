@@ -6,8 +6,8 @@ Share your sequencing samples and protocols with your team or the scientific com
 
 Make sure you have the latest Stable or LTS version of Node.js installed.
 
-1. `git clone https://github.com/palicode/dafront`
-2. Run `cd dafront`
+1. `git clone https://github.com/palicode/nucleotid-front`
+2. Run `cd nucleotid-front`
 2. Run `yarn install`
 3. Start the dev server using `npm start` or `yarn start`
 3. It will open your application on [http://localhost:8080](http://localhost:8080)
