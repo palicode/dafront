@@ -1,10 +1,10 @@
 import React from 'react';
 
-import '../styles/App.css';
+import './App.css';
 
 const App = () => (
   <div>
-    <h1>My React live!</h1>
+    <h1>This is Nucleotid.</h1>
   </div>
 );
 
